@@ -4,8 +4,8 @@ In this project I will upload the projects I am doing to refresh or extend my C#
 Brush-up Plan:
 
 - Entity Framework Core (Done)
-- Unit Testing: xUnit (Progressing)
-- Unit Testing: Mocking
+- Unit Testing: xUnit (Done)
+- Unit Testing: Mocking (Progressing)
 - Serilog
 - MQRabbit
 - Dapper
