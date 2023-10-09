@@ -10,5 +10,5 @@ Brush-up Plan:
 - Async
 
 Completed Tasks:
-- Entity Framework Core (Done)
-- Unit Testing: xUnit (Done)
+- Entity Framework Core
+- Unit Testing: xUnit
