@@ -8,6 +8,7 @@ Brush-up Plan:
 - MQRabbit
 - Dapper
 - Async
+- Minimal API
 
 Completed Tasks:
 - Entity Framework Core
