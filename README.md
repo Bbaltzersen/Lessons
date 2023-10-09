@@ -1,5 +1,5 @@
 # Lessons
-In this project I will upload the projects I am doing to refresh or extend my C# toolset. 
+In this project I will upload the tasks I am doing to refresh or extend my C# toolset. 
 
 Brush-up Plan:
 
