@@ -1,12 +1,17 @@
 # Lessons
-In this project I will upload the projects I am doing to refresh or extend my C# toolset. 
+In this project I will upload the tasks I am doing to refresh or extend my C# toolset. 
 
 Brush-up Plan:
 
-- Entity Framework Core (Done)
-- Unit Testing: xUnit (Progressing)
+- Web API in .NET 6 (Progressing)
+- Authentication, authorization, encryption, and monitoring
 - Unit Testing: Mocking
+- Minimal API
 - Serilog
 - MQRabbit
 - Dapper
 - Async
+
+Completed Tasks:
+- Entity Framework Core
+- Unit Testing: xUnit
