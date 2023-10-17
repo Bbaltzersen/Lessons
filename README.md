@@ -7,6 +7,7 @@ Brush-up Plan:
 - Serilog
 - MQRabbit
 - Async
+- MediatR
 
 Completed Tasks:
 - Entity Framework Core
