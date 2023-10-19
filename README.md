@@ -7,6 +7,7 @@ Brush-up Plan:
 - Serilog
 - MQRabbit
 - Async
+- Generics
 - MediatR
 
 Completed Tasks:
