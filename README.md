@@ -8,6 +8,7 @@ Brush-up Plan:
 - MQRabbit
 - Async
 - Generics
+- NoSQL
 - MediatR
 
 Completed Tasks:
