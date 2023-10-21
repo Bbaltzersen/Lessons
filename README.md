@@ -3,6 +3,7 @@ In this project I will upload the tasks I am doing to refresh or extend my C# to
 
 Brush-up Plan:
 - Generics (Progressing)
+- Minimal API security features
 - Authentication, authorization, encryption, and monitoring
 - Unit Testing: Mocking
 - Serilog
