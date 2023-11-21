@@ -6,7 +6,6 @@ Brush-up Plan
 - Unit Testing: Mocking
 - Serilog
 - MQRabbit
-- Async
 - NoSQL
 - MediatR
 
@@ -18,3 +17,4 @@ Completed Tasks:
 - Dapper
 - Generics
 - Authentication, authorization, encryption, and monitoring
+- Async
