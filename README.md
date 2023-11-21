@@ -2,7 +2,6 @@
 In this project I will upload the tasks I am doing to refresh or extend my C# toolset. 
 
 Brush-up Plan
-- Minimal API security features (Progressing)
 - Unit Testing: Mocking
 - Serilog
 - MQRabbit
@@ -18,3 +17,4 @@ Completed Tasks:
 - Generics
 - Authentication, authorization, encryption, and monitoring
 - Async
+- Minimal API security features
