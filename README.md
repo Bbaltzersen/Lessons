@@ -2,7 +2,6 @@
 In this project I will upload the tasks I am doing to refresh or extend my C# toolset. 
 
 Brush-up Plan
-- Serilog
 - MQRabbit
 - MediatR
 
@@ -18,3 +17,4 @@ Completed Tasks:
 - Async
 - Minimal API security features
 - - NoSQL
+- Serilog
