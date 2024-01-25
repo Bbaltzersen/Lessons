@@ -19,4 +19,5 @@ Completed Tasks:
 - - NoSQL
 - Serilog
 - AWS SES
+- AWS Bucket
 - AWS Cloudfront
