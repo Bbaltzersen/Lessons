@@ -18,3 +18,5 @@ Completed Tasks:
 - Minimal API security features
 - - NoSQL
 - Serilog
+- AWS SES
+- AWS Cloudfront
