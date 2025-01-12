@@ -1,10 +1,6 @@
 # Lessons
 In this project I will upload the tasks I am doing to refresh or extend my C# toolset. 
 
-Brush-up Plan
-- MQRabbit
-- MediatR
-
 Completed Tasks:
 - Entity Framework Core
 - Unit Testing: xUnit
